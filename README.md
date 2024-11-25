@@ -1,2 +1,2 @@
-# Repositorio-Ismael
-Esta es una practica de lo aprendido
+Proyecto de practica dasd
+dassadwd
